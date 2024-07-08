@@ -66,3 +66,6 @@ pip install numpy pandas matplotlib seaborn opendatasets scikit-learn
 - **High Training Accuracy**: The model achieved a perfect training accuracy, indicating that it learned the patterns in the training data exceptionally well.
 - **High Testing Accuracy**: With a **testing accuracy of 99.55%**, the model generalizes well to new, unseen data, making it reliable for practical applications.
 - **Feature Importance**: The analysis of feature importance provides valuable insights into which features are most critical for predicting the chemical names, aiding in further refinement and understanding of the model.
+
+## License
+[MIT License](LICENSE)
